@@ -1,0 +1,76 @@
+/* Reset default margin/padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fdf6e3;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: #ffcc00;
+  padding: 2em;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+header p {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+
+/* Navigation */
+nav a {
+  margin: 0 1em;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #ff6600;
+}
+
+/* Sections */
+section {
+  padding: 2em;
+}
+
+/* Features list */
+section ul {
+  list-style-type: square;
+  margin-left: 1.5em;
+}
+
+/* Buttons */
+button {
+  padding: 0.5em 1em;
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #e65c00;
+}
+
+/* Footer */
+footer {
+  background-color: #ffcc00;
+  padding: 1em;
+  text-align: center;
+}
