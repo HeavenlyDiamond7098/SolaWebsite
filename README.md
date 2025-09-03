@@ -1,7 +1,6 @@
 # SolaWebsite
 Official website and documentation for Sola, a simple, powerful 2D game programming language. Includes syntax guides, tutorials, and demos for creating 2D games with sprites and animations.
 
-# Uses
 <section id="assets" class="assets">
   <div class="container">
     <h2>Using Your Own Assets</h2>
